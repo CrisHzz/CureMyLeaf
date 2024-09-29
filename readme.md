@@ -14,6 +14,7 @@ Cure My Leaf is a convolutional neural network model designed to predict the hea
   - [Deployment](#deployment)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Deploy web](#deploy-web)
 
 ## Introduction
 
@@ -92,4 +93,9 @@ To use the Cure My Leaf model:
    4. The model will output the predicted health status of the leaf.
 
 For any questions or issues, please open an issue in the GitHub repository.
+
+
+## Deploy web
+
+Please enter to https://cure-my-leaf.vercel.app/ to try the model in web
 
