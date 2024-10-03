@@ -1,5 +1,9 @@
 # Cure My Leaf
 
+**For view the jupyter notebook select the file CureMyLeaf_EN (English)**
+
+**Para ver el archivo jupyter notebook seleciona el archivo CureMyLeaf_ES (ESPAÑOL)**
+
 Cure My Leaf is a convolutional neural network model designed to predict the health status of crop leaves. It can identify if a leaf is affected by Bean bacteria, Angular bacteria, or if it's healthy.
 
 ## Table of Contents
