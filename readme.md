@@ -50,7 +50,7 @@ We utilized several libraries for data handling and model creation:
 - Pandas and Numpy: For data manipulation and preprocessing
 - TensorFlow: For creating, compiling, and training the neural network
 
-Our model architecture is based on VGG16, which achieved the best performance with an accuracy of `86.82 %%` after approximately `35` training epochs.
+Our model architecture is based on VGG16, which achieved the best performance with an accuracy of `86.82 %%` after approximately `100` training epochs.
 
 ### Activation Functions
 
